@@ -1,4 +1,4 @@
-= Curriculum Vitae
+# Curriculum Vitae
 
 Built using Typst, Nix, devenv.sh, Just and GitHub Actions.
 
